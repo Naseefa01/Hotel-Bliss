@@ -36,7 +36,7 @@ A stylish and interactive hotel-themed website for showcasing rooms and booking 
 
 🌐 Live Demo
 
-Click here to view
+Click here to view : https://naseefa01.github.io/Hotel-Bliss/
 
 
 💬 Author
